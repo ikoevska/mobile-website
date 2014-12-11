@@ -1,0 +1,12 @@
+{
+  "name": "requirejs-plugins",
+  "homepage": "https://github.com/millermedeiros/requirejs-plugins",
+  "_release": "34330a5d73",
+  "_resolution": {
+    "type": "commit",
+    "commit": "34330a5d735474ac0b518eb1eb270c9e5505a537"
+  },
+  "_source": "git://github.com/millermedeiros/requirejs-plugins.git",
+  "_target": "34330a5d735474ac0b518eb1eb270c9e5505a537",
+  "_originalSource": "millermedeiros/requirejs-plugins"
+}
